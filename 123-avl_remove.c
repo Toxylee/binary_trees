@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * min_val_finder - Find the minimum value node in AVL
  * @root: A pointer to root node

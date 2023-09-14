@@ -1,6 +1,5 @@
 #include "binary_trees.h"
 #include <limits.h>
-
 /**
  * binary_validator - Helps to validate the binary search tree
  * @tree: A pointer to the root node of the tree to validate

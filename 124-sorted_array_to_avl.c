@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * create_arr_tree - Create avl tree from sorted array
  * @arr: The sorted array

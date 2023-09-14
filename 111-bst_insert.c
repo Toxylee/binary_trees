@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * bst_insert - Inserts a value in a binary search tree
  * @tree: A double pointer to the root node of the BST

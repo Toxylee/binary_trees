@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * total_tree_size - Find the total number of nodes
  * in a tree

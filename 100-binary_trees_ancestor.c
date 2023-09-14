@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * binary_trees_ancestor - Finds the lowest commaon ancestor of 2 nodes
  * @first: A pointer to the first node

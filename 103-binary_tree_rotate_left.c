@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * binary_tree_rotate_left - Rotate binary tree to the left
  * @tree: A pointer to the pivot or the node to rotate

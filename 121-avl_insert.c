@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * insert_in_avl - Recursively inserts new node to existing AVL tree
  *
